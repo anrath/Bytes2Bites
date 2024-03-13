@@ -1,4 +1,5 @@
-data/*.csv
+# data/*.csv
+en.openfoodfacts.org.products.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
