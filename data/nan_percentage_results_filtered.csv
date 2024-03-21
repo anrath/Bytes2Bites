@@ -1,0 +1,67 @@
+column,percentage,duplicated
+code,0.0,
+url,0.0,
+creator,0.0,
+created_t,0.0,
+created_datetime,0.0,
+last_modified_t,0.0,
+last_modified_datetime,0.0,
+last_modified_by,3.37,
+last_updated_t,0.76,last_updated_datetime
+product_name,4.96,
+quantity,67.91,
+packaging,87.89,"packaging_tags, packaging_en"
+brands,46.48,brands_tags
+categories,55.42,"categories_tags, categories_en, main_category, main_category_en"
+manufacturing_places,93.89,manufacturing_places_tags
+labels,71.46,"labels_tags, labels_en"
+emb_codes,94.63,
+emb_codes_tags,94.64,
+purchase_places,93.71,
+stores,85.9,
+countries,0.83,"countries_tags, countries_en"
+ingredients_text,70.28,additives_n
+ingredients_tags,70.33,fruits-vegetables-nuts-estimate-from-ingredients_100g
+ingredients_analysis_tags,68.41,
+allergens,91.12,
+traces_tags,94.36,
+traces_en,94.43,
+serving_size,78.8,
+serving_quantity,79.25,
+additives_tags,83.24,additives_en
+nutriscore_score,65.7,nutrition-score-fr_100g
+nutriscore_grade,0.38,
+nova_group,72.7,
+pnns_groups_1,0.08,pnns_groups_2
+food_groups,63.84,"food_groups_tags, food_groups_en"
+states,0.0,
+states_tags,0.0,
+states_en,0.0,
+brand_owner,90.66,
+ecoscore_score,74.85,
+ecoscore_grade,0.1,
+nutrient_levels_tags,62.8,
+product_quantity,70.11,
+unique_scans_n,65.65,
+popularity_tags,65.87,
+completeness,0.0,
+last_image_t,15.18,last_image_datetime
+image_url,19.27,image_small_url
+image_ingredients_url,71.04,image_ingredients_small_url
+image_nutrition_url,43.59,image_nutrition_small_url
+energy-kj_100g,91.54,
+energy-kcal_100g,25.43,
+energy_100g,23.9,
+fat_100g,24.51,
+saturated-fat_100g,26.69,
+trans-fat_100g,91.29,
+cholesterol_100g,91.14,
+carbohydrates_100g,24.48,
+sugars_100g,25.84,
+fiber_100g,65.73,
+proteins_100g,24.41,
+salt_100g,33.53,sodium_100g
+vitamin-a_100g,93.15,
+vitamin-c_100g,92.9,
+calcium_100g,90.96,
+iron_100g,91.26,
